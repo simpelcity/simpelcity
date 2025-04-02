@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on improving my software skills by making the website for my company myself.<br>
-👯 I’m looking to collaborate on companies for an internship.<br>🤝 I’m looking for help with managing and hosting websites on my own.<br>🌱 I’m currently learning Regex<br>💬 Ask me about all the projects I have done.<br>⚡ Fun fact, the SHIFT key is named SHIFT. Because on typewriters, the SHIFT key shifts the case stamp to capital letters.
+👯 I’m looking to collaborate on companies for an internship.<br>
+🤝 I’m looking for help with managing and hosting websites on my own.<br>
+🌱 I’m currently learning Object Oriented Programming.<br>
+💬 Ask me about all the projects I have done.<br>
+⚡ Fun fact, the SHIFT key is named SHIFT. Because on typewriters, the SHIFT key shifts the case stamp to capital letters.
 
 
 ## 🌐 Socials:
